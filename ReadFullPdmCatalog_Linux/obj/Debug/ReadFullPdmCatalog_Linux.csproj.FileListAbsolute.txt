@@ -1,0 +1,7 @@
+C:\Users\mvinti\source\repos\ReadFullPdmCatalog_Linux\ReadFullPdmCatalog_Linux\bin\Debug\ReadFullPdmCatalog_Linux.exe.config
+C:\Users\mvinti\source\repos\ReadFullPdmCatalog_Linux\ReadFullPdmCatalog_Linux\bin\Debug\ReadFullPdmCatalog_Linux.exe
+C:\Users\mvinti\source\repos\ReadFullPdmCatalog_Linux\ReadFullPdmCatalog_Linux\bin\Debug\ReadFullPdmCatalog_Linux.pdb
+C:\Users\mvinti\source\repos\ReadFullPdmCatalog_Linux\ReadFullPdmCatalog_Linux\obj\Debug\ReadFullPdmCatalog_Linux.csprojResolveAssemblyReference.cache
+C:\Users\mvinti\source\repos\ReadFullPdmCatalog_Linux\ReadFullPdmCatalog_Linux\obj\Debug\ReadFullPdmCatalog_Linux.csproj.CoreCompileInputs.cache
+C:\Users\mvinti\source\repos\ReadFullPdmCatalog_Linux\ReadFullPdmCatalog_Linux\obj\Debug\ReadFullPdmCatalog_Linux.exe
+C:\Users\mvinti\source\repos\ReadFullPdmCatalog_Linux\ReadFullPdmCatalog_Linux\obj\Debug\ReadFullPdmCatalog_Linux.pdb
